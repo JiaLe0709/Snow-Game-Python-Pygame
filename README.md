@@ -1,1 +1,2 @@
-# Snow-Game-Python-Pygame
+# Snow-Game-Python
+ with Pygame
